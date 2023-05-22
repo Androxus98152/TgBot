@@ -9,7 +9,7 @@ import speech_recognition
 #     pass
 
 
-# Здесь нужно вставить токен, который дал BotFather при регистрации
+# Здесь нужно вставить токен, который дал BotFather при регистрации ghj
 # Пример: token = '2007628239:AAEF4ZVqLiRKG7j49EC4vaRwXjJ6DN6xng8'
 token = '6212964467:AAFDzjpCIWXH-6oII3KKIJRrDMn1E99HylA'
 
